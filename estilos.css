@@ -1,0 +1,47 @@
+body{
+	margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+background-size: 100% 100%;
+
+}
+img{
+	width: 150px;
+height: 150px;
+border-radius: 40%;
+position: absolute;
+top: 120px; left: 1020px;
+
+}
+
+#nom{
+  text-align: center;
+   border: 1px solid black;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 200px;
+  margin-left: 200px;
+  background-color: lightblue;
+  }
+  h2{
+    
+    border-style: solid;
+   background-color: #CC99CC;
+    max-width: 400px;
+  height: 25px;
+     border-width: 2px;
+  }
+  
+  ul{
+    max-width: 400px;
+  height: 130px;
+  background-color: #FF9966 ;
+  
+  
+  }
+ #uv{
+  background-color:   #FF9966;
+  max-width: 400px;
+  height: 100px;
+ }
